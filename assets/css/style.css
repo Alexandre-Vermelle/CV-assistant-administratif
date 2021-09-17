@@ -78,7 +78,7 @@ section {
 .grey-divider {
     width: 100px;
     height: 2px;
-    background: rgb(20, 33, 61);
+    background: rgb(0, 32, 96);
     margin: 0 auto;
 }
 
@@ -111,7 +111,7 @@ label {
 
 #about {
     padding-top: 100px;
-    background: rgb(20, 33, 61);
+    background: rgb(0, 32, 96);
 }
 
 .profile-picture {
@@ -132,7 +132,7 @@ label {
 }
 
 .button1 {
-    background:rgb(20, 33, 61) ;
+    background:rgb(0, 32, 96) ;
     border: 1px solid white;
     font-size: 22px;
     color: white;
@@ -157,7 +157,7 @@ label {
 }
 
 #skills .heading h2 {
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
     font-weight: bold;
 }
 
@@ -194,7 +194,7 @@ label {
 }
 
 #experience {
-    background: rgb(20, 33, 61);
+    background: rgb(0, 32, 96);
 }
 
 #experience .heading h2 {
@@ -234,7 +234,7 @@ label {
 }
 
 .timeline li .timeline-badge {
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
     width: 50px;
     line-height: 50px;
     font-size: 28px;
@@ -309,8 +309,8 @@ label {
 
 .button {
     color: white;
-    background-color: rgb(20, 33, 61);
-    border-color: rgb(20, 33, 61);
+    background-color: rgb(0, 32, 96);
+    border-color: rgb(0, 32, 96);
     
 }
 
@@ -323,7 +323,7 @@ label {
 }
 
 #stage {
-    background: rgb(20, 33, 61);
+    background: rgb(0, 32, 96);
 }
 
 #stage .heading h2 {
@@ -363,7 +363,7 @@ label {
 }
 
 .timeline li .timeline-badge {
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
     width: 50px;
     line-height: 50px;
     font-size: 32px;
@@ -410,8 +410,8 @@ label {
     top: 27px;
     display: inline-block;
     border-top: 14px solid transparent;
-    border-left: 14px solid black;
-    border-right: 0 solid black;
+    border-left: 14px solid white;
+    border-right: 0 solid white;
     border-bottom: 14px solid transparent;
     content: " ";
 }
@@ -429,7 +429,7 @@ label {
 }
 
 .timeline-heading h4 {
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
 }
 
 .carousel {
@@ -444,7 +444,7 @@ label {
 }
 
 #education .heading h2 {
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
     font-weight: bold;
 }
 
@@ -455,12 +455,12 @@ label {
     padding: 30px;
     background: rgb(229, 229, 229);
     border-radius: 10px;
-    border: 2px solid rgb(20, 33, 61);
+    border: 2px solid rgb(0, 32, 96);
     margin-bottom: 20px;
 }
 
 .education-block h5 {
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 15px;
@@ -468,12 +468,12 @@ label {
 
 .education-block .bi {
     font-size: 30px;
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
 }
 
 .education-block h3 {
     font-size: 25px;
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
 }
 
 .text-formation{
@@ -502,7 +502,7 @@ label {
 /*CONTACT*/
 
 #contact {
-    background: rgb(20, 33, 61);
+    background: rgb(0, 32, 96);
 }
 
 #contact .heading h2 {
@@ -521,7 +521,7 @@ label {
 }
 
 .contact-block h5 {
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 15px;
@@ -529,7 +529,7 @@ label {
 
 .contact-block h6 {
     font-size: 18px;
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
     margin-bottom: 20px;
 }
 
@@ -541,7 +541,7 @@ label {
     border-radius: 10px;
 }
 .icon {
-    color: rgb(20, 33, 61);
+    color: rgb(0, 32, 96);
 }
 
 @media (max-width: 768px) {
