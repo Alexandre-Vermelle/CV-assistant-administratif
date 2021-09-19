@@ -617,10 +617,11 @@ label {
 .timeline-heading h3 {
     margin-top: 5px;
     font-size: 32px;
+    color: rgb(0, 32, 96);
 }
 
 .timeline-heading h4 {
-    color: rgb(0, 32, 96);
+    color: rgb(252, 163, 17);
 }
 
 .carousel {
@@ -672,6 +673,11 @@ label {
 
 .education-block h4 {
     margin-bottom: 20px;
+    color: rgb(0, 32, 96);
+}
+
+.education-block h3 {
+    color: rgb(252, 163, 17);
 }
 
 .education-block {
@@ -686,6 +692,8 @@ label {
     height: 20%;
     margin: 30px 20px;
 }
+
+
 
 /*CONTACT*/
 
@@ -731,6 +739,10 @@ label {
 
 .icon {
     color: rgb(0, 32, 96);
+}
+
+.map {
+    border: solid 2px rgb(252, 163, 17);  
 }
 
 @media (max-width: 768px) {
