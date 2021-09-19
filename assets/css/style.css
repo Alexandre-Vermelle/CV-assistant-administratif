@@ -456,7 +456,7 @@ label {
     float: right;
     ;
     margin-right: 40px;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 32, 96);
     border-radius: 7px;
     padding: 20px 25px;
     position: relative;
@@ -475,8 +475,8 @@ label {
     top: 27px;
     display: inline-block;
     border-top: 14px solid transparent;
-    border-left: 14px solid black;
-    border-right: 0 solid black;
+    border-left: 14px solid rgb(0, 32, 96);
+    border-right: 0 solid brgb(0, 32, 96);
     border-bottom: 14px solid transparent;
     content: " ";
 }
@@ -582,7 +582,7 @@ label {
     float: right;
     ;
     margin-right: 40px;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 32, 96);
     border-radius: 7px;
     padding: 20px 25px;
     position: relative;
@@ -742,7 +742,7 @@ label {
 }
 
 .map {
-    border: solid 2px rgb(252, 163, 17);  
+    border: solid 1px rgb(252, 163, 17);  
 }
 
 @media (max-width: 768px) {
