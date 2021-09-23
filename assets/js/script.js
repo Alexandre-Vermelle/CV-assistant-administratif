@@ -201,4 +201,16 @@ function cityPasswordSubmit() {
         alert('Le mot de passe est incorrect');
     }
 }
+function handicapPasswordSubmit() {
+    let cityPassword = document.getElementById('handicapPassword');
+    let cityPasswordtest = 'handicap'
+
+    if (cityPassword.value === 'handicap') {
+        alert("Durant mon stage au CAT d'Isbergues, j'encadrais un groupe d'adultes handicapés dans différentes activités (maçonnerie, entretien des espaces verts, menuiserie, conditionnement). J'animais des activités sportives ou culturelles (VTT, football, visite de Clairmarais...).");
+    }
+    else {
+        alert('Le mot de passe est incorrect');
+    }
+}
+
 
